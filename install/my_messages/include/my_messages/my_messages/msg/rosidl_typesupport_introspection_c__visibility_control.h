@@ -1,0 +1,1 @@
+/home/yuta/ros2_practice/build/my_messages/rosidl_typesupport_introspection_c/my_messages/msg/rosidl_typesupport_introspection_c__visibility_control.h

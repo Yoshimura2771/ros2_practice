@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from my_messages/srv/CalcTwoFloats.srv
+// generated code does not contain a copyright notice
+
+
+module my_messages {
+  module srv {
+    struct CalcTwoFloats_Request {
+      double a;
+
+      double b;
+    };
+    struct CalcTwoFloats_Response {
+      double sum;
+
+      double diff;
+    };
+  };
+};

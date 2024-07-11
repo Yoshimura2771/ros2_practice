@@ -1,0 +1,1 @@
+/home/yuta/ros2_practice/build/my_messages/rosidl_generator_cpp/my_messages/msg/detail/two_ints__traits.hpp
