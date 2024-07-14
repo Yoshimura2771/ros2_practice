@@ -1,0 +1,1 @@
+/home/yuta/ros2_practice/build/my_msg_class/ament_cmake_core/my_msg_classConfig.cmake
