@@ -1,0 +1,1 @@
+/home/yuta/ros2_practice/build/my_srv_class/ament_cmake_core/my_srv_classConfig-version.cmake
