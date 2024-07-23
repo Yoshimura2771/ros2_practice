@@ -1,0 +1,5 @@
+source;share/minimal_comp/local_setup.bash
+source;share/minimal_comp/local_setup.dsv
+source;share/minimal_comp/local_setup.ps1
+source;share/minimal_comp/local_setup.sh
+source;share/minimal_comp/local_setup.zsh
